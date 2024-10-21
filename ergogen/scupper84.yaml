@@ -1,0 +1,45 @@
+---
+units:
+  # Key spacing proxies
+  kx: cy # Use square 17mm spacing (CFX)
+  ky: cy
+  # Padded proxy values for borders
+  px: kx + 1
+  py: ky + 1
+  # Defaults for rendering
+  $default_width: cy - 0.5
+  $default_height: cy - 0.5
+points:
+  zones:
+    matrix:
+      key:
+        padding: 1ky
+        spread: 1kx
+      columns:
+        louter:   # Esc, etc.
+          rows:
+            top:
+              width: 1.5kx
+        # Left alpha
+        lpinky:   # QAZ
+        lring:    # WSX
+        lmiddle:  # EDC
+        lindex:   # RFV
+        linner:   # TGB
+        # Right alpha
+        rinner:   # YHN
+        rindex:   # UJM
+        rmiddle:  # IK,
+        rring:    # OL.
+        rpinky:   # P;/
+        # Additional right columns
+        router:   # -['
+        rstretch: # +]\
+        rextra:   # Navigation
+      rows:
+        floor:
+        bottom:
+        middle:
+        top:
+        number:
+        function:
