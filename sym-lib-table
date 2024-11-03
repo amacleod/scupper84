@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "keyboard_parts")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.kicad_sym")(options "")(descr ""))
+  (lib (name "Seeed_Studio_XIAO_Series")(type "KiCad")(uri "C:/Users/amacleod/src/world/OPL_Kicad_Library/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "MOUDLE-SEEEDUINO-XIAO")(type "KiCad")(uri "C:/Users/amacleod/Downloads/Seeeduino-xiao-rp2040-KiCAD-Library/Seeeduino-xiao-rp2040-KiCAD-Library/MOUDLE-SEEEDUINO-XIAO.kicad_sym")(options "")(descr ""))
+)
