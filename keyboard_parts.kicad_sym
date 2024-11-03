@@ -492,7 +492,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyboard_parts:XIAO RP2040 Castellated"
 			(at 0 -5.08 0)
 			(effects
 				(font
@@ -642,7 +642,7 @@
 				)
 			)
 			(pin passive line
-				(at -7.62 21.59 270)
+				(at 7.62 21.59 270)
 				(length 2.54)
 				(name "CLK"
 					(effects
@@ -660,7 +660,7 @@
 				)
 			)
 			(pin passive line
-				(at -2.54 21.59 270)
+				(at 2.54 21.59 270)
 				(length 2.54)
 				(name "DIO"
 					(effects
@@ -678,7 +678,7 @@
 				)
 			)
 			(pin power_in line
-				(at 2.54 21.59 270)
+				(at -2.54 21.59 270)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -696,7 +696,7 @@
 				)
 			)
 			(pin passive line
-				(at 7.62 21.59 270)
+				(at -7.62 21.59 270)
 				(length 2.54)
 				(name "RST"
 					(effects
@@ -714,7 +714,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 -21.59 90)
+				(at 2.54 -21.59 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -750,7 +750,7 @@
 				)
 			)
 			(pin power_in line
-				(at 2.54 -21.59 90)
+				(at -2.54 -21.59 90)
 				(length 2.54)
 				(name "BAT+"
 					(effects
