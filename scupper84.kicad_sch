@@ -6372,7 +6372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 52.07 58.42 0)
 			(effects
 				(font
@@ -6440,7 +6440,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 167.64 45.72 0)
 			(effects
 				(font
@@ -6574,7 +6574,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 250.19 58.42 0)
 			(effects
 				(font
@@ -6642,7 +6642,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 101.6 58.42 0)
 			(effects
 				(font
@@ -7062,7 +7062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 118.11 71.12 0)
 			(effects
 				(font
@@ -7284,7 +7284,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 52.07 33.02 0)
 			(effects
 				(font
@@ -7352,7 +7352,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 118.11 83.82 0)
 			(effects
 				(font
@@ -7596,7 +7596,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 134.62 96.52 0)
 			(effects
 				(font
@@ -7664,7 +7664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 134.62 83.82 0)
 			(effects
 				(font
@@ -7844,7 +7844,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 151.13 45.72 0)
 			(effects
 				(font
@@ -7912,7 +7912,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 184.15 96.52 0)
 			(effects
 				(font
@@ -8068,7 +8068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 184.15 45.72 0)
 			(effects
 				(font
@@ -8136,7 +8136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 266.7 45.72 0)
 			(effects
 				(font
@@ -8204,7 +8204,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 134.62 71.12 0)
 			(effects
 				(font
@@ -8604,7 +8604,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 52.07 83.82 0)
 			(effects
 				(font
@@ -8672,7 +8672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 118.11 96.52 0)
 			(effects
 				(font
@@ -8828,7 +8828,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 101.6 83.82 0)
 			(effects
 				(font
@@ -9050,7 +9050,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 250.19 83.82 0)
 			(effects
 				(font
@@ -9206,7 +9206,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 52.07 96.52 0)
 			(effects
 				(font
@@ -9538,7 +9538,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 233.68 83.82 0)
 			(effects
 				(font
@@ -9606,7 +9606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 85.09 71.12 0)
 			(effects
 				(font
@@ -9850,7 +9850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 85.09 58.42 0)
 			(effects
 				(font
@@ -9918,7 +9918,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 134.62 45.72 0)
 			(effects
 				(font
@@ -10074,7 +10074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 250.19 71.12 0)
 			(effects
 				(font
@@ -10670,7 +10670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 101.6 33.02 0)
 			(effects
 				(font
@@ -11126,7 +11126,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 184.15 83.82 0)
 			(effects
 				(font
@@ -11194,7 +11194,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 200.66 83.82 0)
 			(effects
 				(font
@@ -11438,7 +11438,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 200.66 71.12 0)
 			(effects
 				(font
@@ -11682,7 +11682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 52.07 45.72 0)
 			(effects
 				(font
@@ -11838,7 +11838,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 35.56 45.72 0)
 			(effects
 				(font
@@ -12082,7 +12082,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 85.09 45.72 0)
 			(effects
 				(font
@@ -12393,7 +12393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 266.7 58.42 0)
 			(effects
 				(font
@@ -12461,7 +12461,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 266.7 96.52 0)
 			(effects
 				(font
@@ -12529,7 +12529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 167.64 58.42 0)
 			(effects
 				(font
@@ -12597,7 +12597,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 266.7 83.82 0)
 			(effects
 				(font
@@ -12665,7 +12665,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 266.7 33.02 0)
 			(effects
 				(font
@@ -12733,7 +12733,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 68.58 33.02 0)
 			(effects
 				(font
@@ -13241,7 +13241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 217.17 33.02 0)
 			(effects
 				(font
@@ -13485,7 +13485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 233.68 45.72 0)
 			(effects
 				(font
@@ -13553,7 +13553,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 266.7 71.12 0)
 			(effects
 				(font
@@ -13621,7 +13621,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 134.62 58.42 0)
 			(effects
 				(font
@@ -13689,7 +13689,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 250.19 96.52 0)
 			(effects
 				(font
@@ -13933,7 +13933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 68.58 45.72 0)
 			(effects
 				(font
@@ -14001,7 +14001,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 151.13 83.82 0)
 			(effects
 				(font
@@ -14223,7 +14223,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 134.62 33.02 0)
 			(effects
 				(font
@@ -14643,7 +14643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 68.58 71.12 0)
 			(effects
 				(font
@@ -14799,7 +14799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 151.13 58.42 0)
 			(effects
 				(font
@@ -15043,7 +15043,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 250.19 33.02 0)
 			(effects
 				(font
@@ -15375,7 +15375,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 101.6 71.12 0)
 			(effects
 				(font
@@ -15509,7 +15509,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 200.66 33.02 0)
 			(effects
 				(font
@@ -15665,7 +15665,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 217.17 45.72 0)
 			(effects
 				(font
@@ -15733,7 +15733,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 68.58 58.42 0)
 			(effects
 				(font
@@ -15801,7 +15801,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 184.15 71.12 0)
 			(effects
 				(font
@@ -15869,7 +15869,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 200.66 45.72 0)
 			(effects
 				(font
@@ -15937,7 +15937,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 167.64 33.02 0)
 			(effects
 				(font
@@ -16181,7 +16181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 200.66 96.52 0)
 			(effects
 				(font
@@ -16249,7 +16249,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 250.19 45.72 0)
 			(effects
 				(font
@@ -16405,7 +16405,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 101.6 45.72 0)
 			(effects
 				(font
@@ -16825,7 +16825,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 85.09 33.02 0)
 			(effects
 				(font
@@ -17069,7 +17069,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 200.66 58.42 0)
 			(effects
 				(font
@@ -17137,7 +17137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 167.64 96.52 0)
 			(effects
 				(font
@@ -17469,7 +17469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 35.56 33.02 0)
 			(effects
 				(font
@@ -17625,7 +17625,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 151.13 71.12 0)
 			(effects
 				(font
@@ -17693,7 +17693,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 118.11 33.02 0)
 			(effects
 				(font
@@ -17761,7 +17761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 217.17 71.12 0)
 			(effects
 				(font
@@ -17829,7 +17829,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 68.58 96.52 0)
 			(effects
 				(font
@@ -17985,7 +17985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 233.68 58.42 0)
 			(effects
 				(font
@@ -18053,7 +18053,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 35.56 83.82 0)
 			(effects
 				(font
@@ -18363,7 +18363,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 167.64 71.12 0)
 			(effects
 				(font
@@ -18519,7 +18519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 35.56 58.42 0)
 			(effects
 				(font
@@ -18587,7 +18587,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 85.09 83.82 0)
 			(effects
 				(font
@@ -18655,7 +18655,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 52.07 71.12 0)
 			(effects
 				(font
@@ -18723,7 +18723,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 233.68 96.52 0)
 			(effects
 				(font
@@ -18791,7 +18791,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 35.56 96.52 0)
 			(effects
 				(font
@@ -18927,7 +18927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 68.58 83.82 0)
 			(effects
 				(font
@@ -18995,7 +18995,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 167.64 83.82 0)
 			(effects
 				(font
@@ -19151,7 +19151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 118.11 45.72 0)
 			(effects
 				(font
@@ -19307,7 +19307,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 35.56 71.12 0)
 			(effects
 				(font
@@ -19463,7 +19463,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 184.15 58.42 0)
 			(effects
 				(font
@@ -19619,7 +19619,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 233.68 33.02 0)
 			(effects
 				(font
@@ -19687,7 +19687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 184.15 33.02 0)
 			(effects
 				(font
@@ -20107,7 +20107,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 217.17 58.42 0)
 			(effects
 				(font
@@ -20263,7 +20263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 151.13 33.02 0)
 			(effects
 				(font
@@ -20331,7 +20331,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
 			(at 118.11 58.42 0)
 			(effects
 				(font
