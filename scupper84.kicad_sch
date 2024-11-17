@@ -1256,6 +1256,126 @@
 				)
 			)
 		)
+		(symbol "power:+5V"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+5V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+5V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+5V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+5V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers hide)
@@ -2350,10 +2470,6 @@
 		(uuid "ff8ceba3-6c19-445d-9dfc-34a0f884166e")
 	)
 	(no_connect
-		(at 30.48 148.59)
-		(uuid "2bda35e1-eea0-46f1-a60d-47dc963b84a7")
-	)
-	(no_connect
 		(at 52.07 115.57)
 		(uuid "49a7a6e1-23a8-4a6f-ac1b-b1b90a7f835e")
 	)
@@ -2372,10 +2488,6 @@
 	(no_connect
 		(at 149.86 138.43)
 		(uuid "bcda5f9b-0b19-4bfd-8a1e-9812b6655dc9")
-	)
-	(no_connect
-		(at 68.58 125.73)
-		(uuid "d4a29a08-4b5e-4538-9fb6-0bbee99f5e62")
 	)
 	(no_connect
 		(at 46.99 158.75)
@@ -3220,6 +3332,16 @@
 			(type default)
 		)
 		(uuid "4d32c9e7-0ce5-4e70-9de0-4e28aba2f4ed")
+	)
+	(wire
+		(pts
+			(xy 60.96 180.34) (xy 63.5 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4de80bdc-258f-40c3-bb7e-ae270f7eb468")
 	)
 	(wire
 		(pts
@@ -5136,6 +5258,18 @@
 		(uuid 41636eee-237c-4a6f-aeb9-84241a4b8f6e)
 	)
 	(rectangle
+		(start 49.53 170.18)
+		(end 92.71 189.23)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a1c3b789-1fcf-4b9c-86a0-da0f7e6c3a47)
+	)
+	(rectangle
 		(start 19.05 16.51)
 		(end 279.4 104.14)
 		(stroke
@@ -5146,6 +5280,17 @@
 			(type none)
 		)
 		(uuid dca87bab-0594-4961-b272-1d76487de01e)
+	)
+	(text "RGB Glow Strip (SK6812)"
+		(exclude_from_sim no)
+		(at 50.292 171.196 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "41fc2f09-c15c-4acb-892e-1d2a460c2a30")
 	)
 	(text "Reset Button"
 		(exclude_from_sim no)
@@ -5264,6 +5409,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "glow0"
+		(shape input)
+		(at 30.48 148.59 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "187f8939-fdeb-4ffe-ba5b-36fa2508685e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.2011 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -5990,6 +6157,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "glow0"
+		(shape input)
+		(at 60.96 180.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cf7e34d0-e5bb-4416-82e3-ee55e5d8c5c6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 52.4716 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7565,6 +7754,73 @@
 			(project ""
 				(path "/779ef5c1-cac4-4837-8440-65dc0477817c"
 					(reference "D79")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 68.58 125.73 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "17bc3d55-8e97-4120-9b6e-ab10199c4f7e")
+		(property "Reference" "#PWR09"
+			(at 64.77 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 72.39 125.7299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 68.58 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 68.58 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "93f86fbe-7349-462a-8de1-a8eb1eea2f67")
+		)
+		(instances
+			(project ""
+				(path "/779ef5c1-cac4-4837-8440-65dc0477817c"
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -20369,6 +20625,54 @@
 				(path "/779ef5c1-cac4-4837-8440-65dc0477817c"
 					(reference "K36")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 177.8)
+		(size 24.13 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f539733c-0a93-41cb-981a-48b64c4b766f")
+		(property "Sheetname" "rgb_glow"
+			(at 63.5 177.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rgb_glow.kicad_sch"
+			(at 63.5 183.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "glowdata" input
+			(at 63.5 180.34 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "09ca9190-9165-4ba9-ab7e-e7e1f1eb787c")
+		)
+		(instances
+			(project "scupper84"
+				(path "/779ef5c1-cac4-4837-8440-65dc0477817c"
+					(page "2")
 				)
 			)
 		)

@@ -582,6 +582,10 @@
     [
       "779ef5c1-cac4-4837-8440-65dc0477817c",
       "Root"
+    ],
+    [
+      "f539733c-0a93-41cb-981a-48b64c4b766f",
+      "rgb_glow"
     ]
   ],
   "text_variables": {}

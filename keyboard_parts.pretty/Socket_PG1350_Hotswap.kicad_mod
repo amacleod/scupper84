@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -8.4 0)
+		(at 0 -8.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "3d2be143-bc0a-457c-99cb-e5219404822d")
@@ -688,7 +688,20 @@
 		(uuid "2ffa95e6-f557-41e0-9d58-fb146e04addf")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 2.6 0)
+		(at 4 2.7 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "e25c07a8-7f24-465b-b50a-62345a220e39")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0.1 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "97e6551c-b8b5-4c28-a54d-bcdf29e6bfb0")
