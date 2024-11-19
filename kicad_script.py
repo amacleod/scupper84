@@ -12,3 +12,7 @@ def reposition_diode(refnum: int):
     position = keyswitch.GetPosition() - Vec2mm(0, 4.7)
     diode.SetPosition(position)
     pcbnew.Refresh()
+
+def match_all_leds():
+    for n in range(1, 84+1):
+        reposition_diode(n)
