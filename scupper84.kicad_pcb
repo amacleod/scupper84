@@ -5982,7 +5982,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "122a8422-3c85-4096-8749-2ef415b45e49")
-		(at 27.625 93.5)
+		(at 27.1 93.5)
 		(property "Reference" "K46"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -12880,7 +12880,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "1c435bc1-cbc3-4a74-a036-388709e0f0c9")
-		(at 276.25 93.5)
+		(at 273.95 93.5)
 		(property "Reference" "K59"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -14871,7 +14871,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "203688a0-a92f-47b8-80f6-5f6fcaf77379")
-		(at 23.625 127.5)
+		(at 24.65 127.5)
 		(property "Reference" "K74"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -16453,7 +16453,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "21aaa9e6-751f-4a6a-8e0a-3547294de3c9")
-		(at 248.625 93.5)
+		(at 247.45 93.55)
 		(property "Reference" "K58"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -17802,7 +17802,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "2629cc02-9761-43ff-b807-6034fcdae514")
-		(at 250.75 59.5)
+		(at 249.35 59.5)
 		(property "Reference" "K29"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -31774,7 +31774,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "3edd07f1-6c3b-4515-b292-9494c9a1b9a3")
-		(at 259.25 127.5)
+		(at 256.5 127.95)
 		(property "Reference" "K83"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -35733,7 +35733,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "4487d2a5-98f2-4395-a826-b2058f695a01")
-		(at 235.875 110.5)
+		(at 234.3 110.5)
 		(property "Reference" "K71"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -47609,7 +47609,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "65abb991-eedc-48ee-9203-ef03bd795468")
-		(at 259.25 42.5)
+		(at 256.95 42.5)
 		(property "Reference" "K14"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -51809,7 +51809,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "6c6d0970-3c85-41e2-813d-6e6503848984")
-		(at 225.25 127.5)
+		(at 222.05 127.5)
 		(property "Reference" "K81"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -54186,7 +54186,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "711c52fb-1ccd-4ec0-aced-9b1b7bfc39e5")
-		(at 25.5 76.5)
+		(at 24.85 76.5)
 		(property "Reference" "K31"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -61672,7 +61672,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "84784c22-ce81-48e1-8036-72f46b958078")
-		(at 155.25 127.5)
+		(at 152.05 127.5)
 		(property "Reference" "K78"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -63467,7 +63467,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "880309d2-03e9-4a34-a1ca-fcdbb098d986")
-		(at 42.8 127.5)
+		(at 44 127.5)
 		(property "Reference" "K75"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -64262,7 +64262,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "8a39b026-3201-402e-bef9-542d451f7db2")
-		(at 242.25 127.5)
+		(at 239.5 127.95)
 		(property "Reference" "K82"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -71168,7 +71168,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "99bf391c-dd97-4a91-94d1-6cd68b7a1c50")
-		(at 100.25 127.5)
+		(at 97.05 127.5)
 		(property "Reference" "K77"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -72758,7 +72758,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "9c694bad-b37b-4170-89cc-38c4e1cd133a")
-		(at 276.25 59.5)
+		(at 273.95 59.5)
 		(property "Reference" "K30"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -77037,7 +77037,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "a8d029df-2ca0-4f02-a869-1d85692d2429")
-		(at 31.875 110.5)
+		(at 32.8 110.5)
 		(property "Reference" "K60"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -82361,7 +82361,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "ac452463-ec43-439f-9682-de29c1294633")
-		(at 276.25 110.5)
+		(at 273.95 110.5)
 		(property "Reference" "K73"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -84409,7 +84409,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "b4a6dc40-11e7-4e9e-b115-de1389dce5bc")
-		(at 276.25 42.5)
+		(at 273.95 42.5)
 		(property "Reference" "K15"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -87107,7 +87107,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "ba689987-7333-4853-8a6d-2f80e78c4efb")
-		(at 276.25 127.5)
+		(at 273.5 127.95)
 		(property "Reference" "K84"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -91651,7 +91651,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "c593b5de-f454-4d00-a901-5475f5cbdf7d")
-		(at 191.25 127.5)
+		(at 188.05 127.5)
 		(property "Reference" "K79"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -93397,7 +93397,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "ca18ad87-9325-4c0d-8adf-8bac18723bfb")
-		(at 259.25 110.5)
+		(at 256.5 110.95)
 		(property "Reference" "K72"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -98667,7 +98667,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "cf24bf4e-b2d9-4cf1-b66d-2698f5e7edf2")
-		(at 208.25 127.5)
+		(at 205.05 127.5)
 		(property "Reference" "K80"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -102423,7 +102423,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "d6515a00-986e-4301-8477-5ab2e46d6b7d")
-		(at 61.975 127.5)
+		(at 61.05 127.5)
 		(property "Reference" "K76"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -105820,7 +105820,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "db9a9ce9-9f3f-4434-a8e3-5c1363f3cbdc")
-		(at 276.25 76.5)
+		(at 273.95 76.5)
 		(property "Reference" "K45"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -116715,7 +116715,7 @@
 	(footprint "keyboard_parts:Socket_PG1350_Hotswap"
 		(layer "F.Cu")
 		(uuid "fd2b0486-ad37-4a25-9131-69dd3da435a1")
-		(at 255 76.5)
+		(at 253.125 76.5)
 		(property "Reference" "K44"
 			(at 0 -8.5 0)
 			(unlocked yes)
@@ -118661,8 +118661,8 @@
 		(uuid "0c6afb7d-2ce3-4685-a3a0-7152ad78249e")
 	)
 	(gr_line
-		(start 47.45 174.05)
-		(end 48.2 174.8)
+		(start -127.65 109.95)
+		(end -126.9 110.7)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -118702,8 +118702,8 @@
 		(uuid "0d6bae63-301b-44af-8761-1e25a925eb34")
 	)
 	(gr_line
-		(start 88.075 159.05)
-		(end 88.825 158.3)
+		(start -87.025 94.95)
+		(end -86.275 94.2)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -118722,8 +118722,8 @@
 		(uuid "0e0bab74-066c-493c-bf08-c975689f20b2")
 	)
 	(gr_line
-		(start 107.45 157.15)
-		(end 108.15 157.9)
+		(start -67.65 93.05)
+		(end -66.95 93.8)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -118919,8 +118919,8 @@
 		(uuid "18d4f82b-e1af-4821-a28e-2d56cb93cf54")
 	)
 	(gr_line
-		(start 78.4 157.15)
-		(end 77.65 157.9)
+		(start -96.7 93.05)
+		(end -97.45 93.8)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -119097,8 +119097,8 @@
 		(uuid "22800575-f8b9-47b7-9301-e1737a44b20f")
 	)
 	(gr_line
-		(start 89.15 179.85)
-		(end 88.35 180.65)
+		(start -107.875 111.275)
+		(end -108.675 112.075)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -119230,8 +119230,8 @@
 		(uuid "29708664-fc7c-4e87-8271-f42d5691a816")
 	)
 	(gr_rect
-		(start 282.2 50.75)
-		(end 265.7 34.25)
+		(start 265.7 34.25)
+		(end 282.2 50.75)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -119376,8 +119376,8 @@
 		(uuid "2e609486-ae0c-477a-91db-242693a4a73f")
 	)
 	(gr_line
-		(start 28.4 157)
-		(end 29.2 157.8)
+		(start -146.7 92.9)
+		(end -145.9 93.7)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -119439,8 +119439,8 @@
 		(uuid "30b4d48d-f5e4-4fcf-a4e9-1359083c8677")
 	)
 	(gr_rect
-		(start 49.325 159.05)
-		(end 88.075 174.05)
+		(start -125.775 94.95)
+		(end -87.025 109.95)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -119501,8 +119501,8 @@
 		(uuid "337ad97f-3acc-41be-aa28-7b6abb400ce7")
 	)
 	(gr_rect
-		(start 265.7 84.75)
-		(end 282.2 68.25)
+		(start 265.7 68.25)
+		(end 282.2 84.75)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -119512,8 +119512,8 @@
 		(uuid "342cc7ea-1f1a-4056-8285-74c41e143af9")
 	)
 	(gr_line
-		(start 12.7 157.8)
-		(end 13.4 157)
+		(start -162.4 93.7)
+		(end -161.7 92.9)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -119678,8 +119678,8 @@
 		(uuid "3845fab7-4348-44e0-94ae-b5c948081845")
 	)
 	(gr_rect
-		(start 34.65 179.85)
-		(end 89.15 196.35)
+		(start -162.375 111.275)
+		(end -107.875 127.775)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -119689,8 +119689,8 @@
 		(uuid "38dc2e4d-1a03-4d40-a646-0db5860489db")
 	)
 	(gr_line
-		(start 88.35 195.55)
-		(end 89.15 196.35)
+		(start -108.675 126.975)
+		(end -107.875 127.775)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -119897,8 +119897,8 @@
 		(uuid "413c35d8-acea-4a32-a454-f028453d88f7")
 	)
 	(gr_rect
-		(start 266.4 84.05)
-		(end 281.4 69.05)
+		(start 266.4 69.05)
+		(end 281.4 84.05)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -120281,8 +120281,8 @@
 		(uuid "54000c6f-f56b-41ef-81e0-e716b7561656")
 	)
 	(gr_line
-		(start 51.95 142)
-		(end 51.2 141.25)
+		(start -123.15 77.9)
+		(end -123.9 77.15)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -120384,8 +120384,8 @@
 		(uuid "58b9c8d9-2543-472a-bb3b-2e9fef31b237")
 	)
 	(gr_line
-		(start 108.15 141.4)
-		(end 107.45 142.15)
+		(start -66.95 77.3)
+		(end -67.65 78.05)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -120424,8 +120424,8 @@
 		(uuid "5a20c3cb-96fa-49f7-977d-84fe23532974")
 	)
 	(gr_line
-		(start 49.9 156.95)
-		(end 50.7 157.75)
+		(start -125.2 92.85)
+		(end -124.4 93.65)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -120508,8 +120508,8 @@
 		(uuid "5d8788e4-89d3-40a8-b3b8-5bed1dda4572")
 	)
 	(gr_line
-		(start 12.7 158.3)
-		(end 13.45 159.05)
+		(start -162.4 94.2)
+		(end -161.65 94.95)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -120569,8 +120569,8 @@
 		(uuid "609f802e-bcd7-4c04-87da-a1705b6107cb")
 	)
 	(gr_rect
-		(start 29.45 141.25)
-		(end 50.7 157.75)
+		(start -145.65 77.15)
+		(end -124.4 93.65)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -120671,8 +120671,8 @@
 		(uuid "671fb875-0d57-4046-b5ae-a815f6ae40cb")
 	)
 	(gr_line
-		(start 77.2 157.75)
-		(end 76.45 157)
+		(start -97.9 93.65)
+		(end -98.65 92.9)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -120681,8 +120681,8 @@
 		(uuid "67af700d-8be2-4f4b-aba9-840a65d54832")
 	)
 	(gr_rect
-		(start 12.7 141.3)
-		(end 29.2 157.8)
+		(start -162.4 77.2)
+		(end -145.9 93.7)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121362,8 +121362,8 @@
 		(uuid "845085ac-a747-42f1-a286-aeec669d2855")
 	)
 	(gr_line
-		(start 77.2 141.25)
-		(end 76.45 142)
+		(start -97.9 77.15)
+		(end -98.65 77.9)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121496,8 +121496,8 @@
 		(uuid "8b38f714-c561-4946-bb9b-f1659ade9c13")
 	)
 	(gr_rect
-		(start 35.45 180.65)
-		(end 88.35 195.55)
+		(start -161.575 112.075)
+		(end -108.675 126.975)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121557,8 +121557,8 @@
 		(uuid "8d621bc4-83c5-4fd4-87aa-90ba67f26911")
 	)
 	(gr_rect
-		(start 12.7 158.3)
-		(end 48.2 174.8)
+		(start -162.4 94.2)
+		(end -126.9 110.7)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121568,8 +121568,8 @@
 		(uuid "8da6e5f1-2f6b-4d64-8fc8-41ba6c3a93b8")
 	)
 	(gr_rect
-		(start 281.5 50.05)
-		(end 266.5 35.05)
+		(start 266.5 35.05)
+		(end 281.5 50.05)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121682,8 +121682,8 @@
 		(uuid "95be641a-4b26-48b4-b432-96bc09d1282c")
 	)
 	(gr_line
-		(start 12.7 141.3)
-		(end 13.4 142)
+		(start -162.4 77.2)
+		(end -161.7 77.9)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121776,8 +121776,8 @@
 		(uuid "9a37665f-7576-4cc6-8a75-1bb525c21a4a")
 	)
 	(gr_line
-		(start 51.2 157.75)
-		(end 51.95 157)
+		(start -123.9 93.65)
+		(end -123.15 92.9)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121807,8 +121807,8 @@
 		(uuid "9abdda8c-fe01-44db-9055-186ca4fb9dba")
 	)
 	(gr_line
-		(start 48.575 174.8)
-		(end 49.325 174.05)
+		(start -126.525 110.7)
+		(end -125.775 109.95)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121942,8 +121942,8 @@
 		(uuid "a156e096-23c8-437a-b578-8e00ed6ef485")
 	)
 	(gr_line
-		(start 50.7 141.25)
-		(end 49.9 141.95)
+		(start -124.4 77.15)
+		(end -125.2 77.85)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121982,8 +121982,8 @@
 		(uuid "a34d733b-dd4a-473c-afab-1f61a9972aa6")
 	)
 	(gr_line
-		(start 48.575 158.3)
-		(end 49.325 159.05)
+		(start -126.525 94.2)
+		(end -125.775 94.95)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -121992,8 +121992,8 @@
 		(uuid "a367d9df-343d-4a47-8360-8e0196ee9727")
 	)
 	(gr_rect
-		(start 78.4 142.15)
-		(end 107.45 157.15)
+		(start -96.7 78.05)
+		(end -67.65 93.05)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -122128,8 +122128,8 @@
 		(uuid "aa992d9e-f58d-4f33-aaf8-16f5f08acd27")
 	)
 	(gr_line
-		(start 13.45 174.05)
-		(end 12.7 174.8)
+		(start -161.65 109.95)
+		(end -162.4 110.7)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -122170,8 +122170,8 @@
 		(uuid "abad1ac5-2673-46bd-a098-c089c8c6354e")
 	)
 	(gr_rect
-		(start 13.4 142)
-		(end 28.4 157)
+		(start -161.7 77.9)
+		(end -146.7 92.9)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -122732,8 +122732,8 @@
 		(uuid "c7a70fad-6fda-47c7-9055-6243414e1453")
 	)
 	(gr_rect
-		(start 51.95 142)
-		(end 76.45 157)
+		(start -123.15 77.9)
+		(end -98.65 92.9)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -122743,8 +122743,8 @@
 		(uuid "c7b77696-83f9-49b3-9883-526aa0d29759")
 	)
 	(gr_line
-		(start 78.4 142.15)
-		(end 77.7 141.45)
+		(start -96.7 78.05)
+		(end -97.4 77.35)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -123041,8 +123041,8 @@
 		(uuid "d7d8d202-62b8-4fcf-82cd-f30179c359f5")
 	)
 	(gr_line
-		(start 30.25 141.95)
-		(end 29.45 141.25)
+		(start -144.85 77.85)
+		(end -145.65 77.15)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -123123,8 +123123,8 @@
 		(uuid "da07f681-31b6-4a4c-a8ca-1ce2213ddbca")
 	)
 	(gr_rect
-		(start 30.25 141.95)
-		(end 49.9 156.95)
+		(start -144.85 77.85)
+		(end -125.2 92.85)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -123359,8 +123359,8 @@
 		(uuid "e0ee7d05-689c-4884-b51b-a7799f63f557")
 	)
 	(gr_rect
-		(start 51.2 141.25)
-		(end 77.2 157.75)
+		(start -123.9 77.15)
+		(end -97.9 93.65)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -123421,8 +123421,8 @@
 		(uuid "e26127e5-356d-41a0-95e6-bef4ed965b21")
 	)
 	(gr_line
-		(start 88.075 174.05)
-		(end 88.825 174.8)
+		(start -87.025 109.95)
+		(end -86.275 110.7)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -123523,8 +123523,8 @@
 		(uuid "e7b1e73a-883a-4bcd-997a-9c32dbd53895")
 	)
 	(gr_rect
-		(start 13.45 159.05)
-		(end 47.45 174.05)
+		(start -161.65 94.95)
+		(end -127.65 109.95)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -123534,8 +123534,8 @@
 		(uuid "e84daffb-8027-4c8e-8307-a29ea038e7c2")
 	)
 	(gr_line
-		(start 35.45 195.55)
-		(end 34.65 196.35)
+		(start -161.575 126.975)
+		(end -162.375 127.775)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -123606,8 +123606,8 @@
 		(uuid "e9eaad07-ff0c-4d33-abc3-ed19f1608698")
 	)
 	(gr_rect
-		(start 77.65 141.4)
-		(end 108.15 157.9)
+		(start -97.45 77.3)
+		(end -66.95 93.8)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -123627,8 +123627,8 @@
 		(uuid "ea38226e-02af-4211-9e27-50e8c0afc6d0")
 	)
 	(gr_rect
-		(start 48.575 158.3)
-		(end 88.825 174.8)
+		(start -126.525 94.2)
+		(end -86.275 110.7)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -123711,8 +123711,8 @@
 		(uuid "eda9dac7-3366-42b1-bf83-98101dd570f0")
 	)
 	(gr_line
-		(start 30.25 156.95)
-		(end 29.45 157.75)
+		(start -144.85 92.85)
+		(end -145.65 93.65)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -123813,8 +123813,8 @@
 		(uuid "f0b49c68-0f4a-4bb5-8ada-b576da973b98")
 	)
 	(gr_line
-		(start 29.2 141.3)
-		(end 28.4 142)
+		(start -145.9 77.2)
+		(end -146.7 77.9)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -123843,8 +123843,8 @@
 		(uuid "f218288b-2f6e-445f-af31-20fbf81f3290")
 	)
 	(gr_line
-		(start 48.2 158.3)
-		(end 47.45 159.05)
+		(start -126.9 94.2)
+		(end -127.65 94.95)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -123903,8 +123903,8 @@
 		(uuid "f3d2d35e-4526-4a48-bfcd-6e4dfab2bd84")
 	)
 	(gr_line
-		(start 34.65 179.85)
-		(end 35.45 180.65)
+		(start -162.375 111.275)
+		(end -161.575 112.075)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -124109,7 +124109,7 @@
 		(uuid "dd01484b-4040-45d2-8b33-56199ef475cc")
 	)
 	(gr_text "21.25mm x 16.5mm"
-		(at 30.75 143.75 0)
+		(at -144.35 79.65 0)
 		(layer "Cmts.User")
 		(uuid "04396b22-f2cc-4bdd-b5f9-1604fcaa8e2f")
 		(effects
@@ -124121,7 +124121,7 @@
 		)
 	)
 	(gr_text "35.5mm x 16.5mm"
-		(at 13.85 160.75 0)
+		(at -161.25 96.65 0)
 		(layer "Cmts.User")
 		(uuid "0a143834-0af9-4c29-8e26-b833480af681")
 		(effects
@@ -124133,7 +124133,7 @@
 		)
 	)
 	(gr_text "2.25U"
-		(at 30.75 166.75 0)
+		(at -144.35 102.65 0)
 		(layer "Cmts.User")
 		(uuid "142e1eca-82f7-42c2-8e0e-2bdb05533a1a")
 		(effects
@@ -124144,7 +124144,7 @@
 		)
 	)
 	(gr_text "1U"
-		(at 21.25 149.75 0)
+		(at -153.85 85.65 0)
 		(layer "Cmts.User")
 		(uuid "178f2290-d73d-4cdc-9fa6-8bee449d02af")
 		(effects
@@ -124155,7 +124155,7 @@
 		)
 	)
 	(gr_text "1.25U"
-		(at 40.375 149.7 0)
+		(at -134.725 85.6 0)
 		(layer "Cmts.User")
 		(uuid "43122df4-eae5-432c-81bc-4f98733019b3")
 		(effects
@@ -124166,7 +124166,7 @@
 		)
 	)
 	(gr_text "26mm x 16.5mm"
-		(at 52.55 143.85 0)
+		(at -122.55 79.75 0)
 		(layer "Cmts.User")
 		(uuid "5be0bc88-cf18-4109-b8b1-52a6fce10e53")
 		(effects
@@ -124178,7 +124178,7 @@
 		)
 	)
 	(gr_text "1.75U"
-		(at 93.2 149.85 0)
+		(at -81.9 85.75 0)
 		(layer "Cmts.User")
 		(uuid "6ae02b15-6d90-4f34-a0e9-0f61857740a1")
 		(effects
@@ -124189,7 +124189,7 @@
 		)
 	)
 	(gr_text "30.5mm x 16.5mm"
-		(at 78.95 144 0)
+		(at -96.15 79.9 0)
 		(layer "Cmts.User")
 		(uuid "76f3f741-0ccd-4434-97e4-15bbb464d409")
 		(effects
@@ -124201,7 +124201,7 @@
 		)
 	)
 	(gr_text "2.5U"
-		(at 68.7 166.55 0)
+		(at -106.4 102.45 0)
 		(layer "Cmts.User")
 		(uuid "7df5d3f2-6b7b-4eae-8f5e-2c5609e07e47")
 		(effects
@@ -124212,7 +124212,7 @@
 		)
 	)
 	(gr_text "54.5mm x 16.5mm"
-		(at 35.925 182.475 0)
+		(at -161.1 113.9 0)
 		(layer "Cmts.User")
 		(uuid "cabe2426-bd66-4ab5-92d3-02f168c33f75")
 		(effects
@@ -124224,7 +124224,7 @@
 		)
 	)
 	(gr_text "16.5mm x 16.5mm"
-		(at 14 143.8 0)
+		(at -161.1 79.7 0)
 		(layer "Cmts.User")
 		(uuid "cd195da5-ceed-43b6-a8f1-775d6d599ae8")
 		(effects
@@ -124236,7 +124236,7 @@
 		)
 	)
 	(gr_text "40.5mm x 16.5mm"
-		(at 49.5 160.75 0)
+		(at -125.6 96.65 0)
 		(layer "Cmts.User")
 		(uuid "cea24287-c4f2-4e2e-98b5-bc91552695b1")
 		(effects
@@ -124248,7 +124248,7 @@
 		)
 	)
 	(gr_text "1.5U"
-		(at 64.5 149.7 0)
+		(at -110.6 85.6 0)
 		(layer "Cmts.User")
 		(uuid "dba92ae5-eb86-401e-817b-e8eeba96fbb4")
 		(effects
@@ -124259,7 +124259,7 @@
 		)
 	)
 	(gr_text "3U"
-		(at 62.2 188.3 0)
+		(at -134.825 119.725 0)
 		(layer "Cmts.User")
 		(uuid "e792a8e1-d355-4f18-8a30-0753e4e701dc")
 		(effects
