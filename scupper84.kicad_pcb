@@ -1782,7 +1782,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "06f75325-a473-4abb-af66-07c0b304cdde")
-		(at 100.25 122.8)
+		(at 97.05 122.8)
 		(property "Reference" "DS77"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -8126,7 +8126,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "14b513da-714b-4dc1-ac2c-b251f4ca034b")
-		(at 225.25 122.8)
+		(at 222.05 122.8)
 		(property "Reference" "DS81"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -9796,7 +9796,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "16c3c1a8-c81e-4228-93c8-82f611b22dd9")
-		(at 61.975 122.8)
+		(at 61.05 122.8)
 		(property "Reference" "DS76"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -15987,7 +15987,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "2145f41e-58dc-4b8c-a0a5-cfbcfb342223")
-		(at 276.25 54.8)
+		(at 273.95 54.8)
 		(property "Reference" "DS30"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -16220,7 +16220,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "2168608b-5f77-4528-b7ca-669f3c1da014")
-		(at 276.25 105.8)
+		(at 273.95 105.8)
 		(property "Reference" "DS73"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -22098,7 +22098,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "2afb896e-9daa-4a4c-9d1b-6dccb86546d9")
-		(at 259.25 37.8)
+		(at 256.95 37.8)
 		(property "Reference" "DS14"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -38198,7 +38198,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "49e48868-4246-4a83-b833-e7ce01382ab5")
-		(at 208.25 122.8)
+		(at 205.05 122.8)
 		(property "Reference" "DS80"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -41041,7 +41041,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "51c4f5f8-ed19-4390-895f-dcccc483a06e")
-		(at 31.875 105.8)
+		(at 32.8 105.8)
 		(property "Reference" "DS60"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -47055,7 +47055,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "63177d9a-ed9c-48a5-ae3f-2cb3d797b650")
-		(at 27.625 88.8)
+		(at 27.1 88.8)
 		(property "Reference" "DS46"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -50315,7 +50315,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "6ae525ca-2eb7-4385-9190-914d01a31521")
-		(at 191.25 122.8)
+		(at 188.05 122.8)
 		(property "Reference" "DS79"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -51576,7 +51576,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "6b7e1e39-8c68-4567-beac-c1da1e6a8394")
-		(at 248.625 88.8)
+		(at 247.45 88.85)
 		(property "Reference" "DS58"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -53953,7 +53953,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "70c987f9-ee67-46f8-90d1-e5693ba93a74")
-		(at 155.25 122.8)
+		(at 152.05 122.8)
 		(property "Reference" "DS78"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -57778,7 +57778,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "786dcff0-3686-4737-b8bf-5e0f8d92eb58")
-		(at 23.625 122.8)
+		(at 24.65 122.8)
 		(property "Reference" "DS74"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -59448,7 +59448,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "7f832f8d-191f-471d-a615-a214506b06b8")
-		(at 276.25 71.8)
+		(at 273.95 71.8)
 		(property "Reference" "DS45"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -66647,7 +66647,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "8d6a6cae-1407-4a38-ac25-931785f641b9")
-		(at 259.25 105.8)
+		(at 256.5 106.25)
 		(property "Reference" "DS72"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -66880,7 +66880,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "8d7947e0-f037-4d03-9d23-62862537e491")
-		(at 259.25 122.8)
+		(at 256.5 123.25)
 		(property "Reference" "DS83"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -79422,7 +79422,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "aa6dc71b-85ad-42e0-bc62-f106ef564c75")
-		(at 276.25 88.8)
+		(at 273.95 88.8)
 		(property "Reference" "DS59"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -83477,7 +83477,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "adb611e8-36a0-4f6d-9ae3-f6fd358e2fd9")
-		(at 42.8 122.8)
+		(at 44 122.8)
 		(property "Reference" "DS75"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -83710,7 +83710,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "b00e492c-5cda-4e50-bdbb-d23f5102a55f")
-		(at 235.875 105.8)
+		(at 234.3 105.8)
 		(property "Reference" "DS71"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -88865,7 +88865,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "c289418f-6be8-4414-ab4b-79430c639f28")
-		(at 242.25 122.8)
+		(at 239.5 123.25)
 		(property "Reference" "DS82"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -94192,7 +94192,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "ca4def2f-182f-4d80-a460-5885a55cb74c")
-		(at 25.5 71.8)
+		(at 24.85 71.8)
 		(property "Reference" "DS31"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -100046,7 +100046,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "d1fb7672-efd1-470e-9fcb-dcaa3ddc1a76")
-		(at 276.25 37.8)
+		(at 273.95 37.8)
 		(property "Reference" "DS15"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -103451,7 +103451,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "d78b0288-3fea-455e-8ef2-b7b2bdc410b2")
-		(at 255 71.8)
+		(at 253.125 71.8)
 		(property "Reference" "DS44"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -109401,7 +109401,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "e3a03dc0-2477-4b8a-abd0-482981b8cbfd")
-		(at 276.25 122.8)
+		(at 273.5 123.25)
 		(property "Reference" "DS84"
 			(at 0 -2.3 0)
 			(unlocked yes)
@@ -112733,7 +112733,7 @@
 	(footprint "keyboard_parts:LED_RGB_SK6812Mini-E"
 		(layer "F.Cu")
 		(uuid "f6bb020d-07e5-43e2-bbad-e2bee9bc704d")
-		(at 250.75 54.8)
+		(at 249.35 54.8)
 		(property "Reference" "DS29"
 			(at 0 -2.3 0)
 			(unlocked yes)
